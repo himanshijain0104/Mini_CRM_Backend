@@ -99,3 +99,4 @@ backend/
 * dotenv – To manage environment variables
 * CORS & cookie-parser – Middleware for secure communication
 * Yarn – Package manager
+* Postman – For testing and debugging backend APIs

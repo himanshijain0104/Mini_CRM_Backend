@@ -1,5 +1,5 @@
 
- **Backend Setup – XenoCRM**
+ **Backend Setup – Mini CRM**
 
 Follow the steps below to get the backend up and running on your local machine:
 
